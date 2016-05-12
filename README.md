@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/faforever/server.png?label=ready&title=Ready)](https://waffle.io/faforever/server)
 # FA Forever - Server
 
 This is the source code for the [Forged Alliance Forever](http://www.faforever.com/) server.
