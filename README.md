@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/yetea/server.png?label=ready&title=Ready)](https://waffle.io/yetea/server?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/smart-garden/server.png?label=ready&title=Ready)](https://waffle.io/smart-garden/server)
 [![Stories in Ready](https://badge.waffle.io/smart-garden/server.png?label=ready&title=Ready)](https://waffle.io/smart-garden/server)
 [![Stories in Ready](https://badge.waffle.io/faforever/server.png?label=ready&title=Ready)](https://waffle.io/faforever/server)
